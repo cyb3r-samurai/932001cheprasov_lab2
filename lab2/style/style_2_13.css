@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container{
+background-color: aqua;
+width: 96vw;
+position: absolute;
+margin-left: 2vw;
+border: 1px green solid;
+
+}
+.bar{
+position: relative;
+width:20%;
+height: 80px;
+padding-top: 10px;
+padding-left: 30px;
+background-color: bisque;
+margin-right: 10px;
+}
+.right{
+background-color: darkgray;
+width: 80%;
+min-width: 200px;
+float: right;
+}
+img{
+    
+    width: 35vw;
+    float: right;
+}
+
+.cont{
+    clear: both;
+}

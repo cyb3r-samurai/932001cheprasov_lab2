@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.first{
+    background-color: green;
+    width: 500px;
+    margin: auto ;
+    margin-top: 20px;
+    color: white;
+    height: auto;
+}
+.second{
+    background-color: blue;
+    padding: 25px;
+    border: 25px solid blue;
+    width: 600px;   
+    color: white;
+    margin: auto;
+    height: auto;
+    margin-top: 50px;
+}

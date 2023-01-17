@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+footer{
+background-color: limegreen;
+	position: fixed;
+	bottom: 0;
+    height: 5vh;
+    width: 100vw;
+}
+.container{
+    background-color: aqua;
+}
+.bar{
+    width:200px;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: bisque;
+    float: left;
+}
+.right{
+    margin-left: 200px;
+    background-color: darkgray;
+    width: calc(100vw - 200px);
+}
+img{
+    float: right;
+}

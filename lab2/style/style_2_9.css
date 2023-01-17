@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    float: right;
+}
+div{
+    background: blue;
+    max-width: 600px;
+    margin: 0 auto;
+    color:white;
+}

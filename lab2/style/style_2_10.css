@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    float: left;
+    background-color: aquamarine;
+    margin:20px;
+    width: 200px;
+    height: 80px;
+
+}
+.second{
+    clear:both;
+    background-color: bisque;
+    margin-left:2vw ;
+    margin-right:2vw ;
+}

@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.first{
+    width: 500px;
+    margin: auto ;
+    margin-top: 20px;
+    height: auto;
+}
+.second{
+    padding: 40px;
+    border: 10px solid blue;
+    width: 500px;   
+    margin: auto;
+    height: auto;
+    margin-top: 50px;
+}

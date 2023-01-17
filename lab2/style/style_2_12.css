@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    background-color: aqua;
+}
+.bar{
+    width:500px;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: bisque;
+    margin-right: 10px;
+    float: left;
+}
+.right{
+    display: inline-block;
+    background-color: darkgray;
+    width: calc(100vw - 520px);
+    min-width: 200px;
+}

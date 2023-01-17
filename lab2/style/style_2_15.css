@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    display: inline-block;
+    background-color: aquamarine;
+    width: 180px;
+    height: 100px;
+    margin: 20px;
+}
+.clear {
+    background-color: bisque;
+    width: 98vw;
+    margin-left:1vw ;
+}
